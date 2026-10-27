@@ -17,7 +17,7 @@ I’m **Yasitha Bandara**, an engineer with a passion for combining electronics,
 
 | Project | What it explores |
 |:--|:--|
-| 🔥 [**Intelligent Fire Risk Detection**](https://github.com/YB-8080/capstone) | IoT sensor data, time-series forecasting and anomaly detection for fire-risk monitoring. |
+| 🔥 **Intelligent Fire Risk Detection** | IoT sensor data, time-series forecasting and anomaly detection for fire-risk monitoring. The repository is private. |
 | 🌱 [**Tomato Irrigation Data Mining**](https://github.com/YB-8080/miniproject_258723G) | Visualizing irrigation data and exploring patterns with clustering and outlier detection. |
 | 📱 [**TakeEase**](https://github.com/YB-8080/takeease) | An Android task management app with reminders and local data storage. |
 
